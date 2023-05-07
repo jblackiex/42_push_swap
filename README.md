@@ -42,4 +42,4 @@ Execute with:
 
 big numbers tested with:
 
-* [Tripouille/printfTester](https://github.com/o-reo/push_swap_visualizer)
+* [o-reo /push_swap_visualizer](https://github.com/o-reo/push_swap_visualizer)
